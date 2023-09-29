@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealFPS.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{208C2588-D155-4830-9229-D5EBA5F4830D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealFPS.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealFPSEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F8114DB2-8878-4C2F-AF08-EBF67BB76B66}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealFPS">
+      <UniqueIdentifier>{6C1B8F21-2207-4E68-A8C1-D0C505C1A15D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealFPS\UnrealFPS.Build.cs">
+      <Filter>Source\UnrealFPS</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealFPS\UnrealFPS.cpp">
+      <Filter>Source\UnrealFPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealFPS\UnrealFPS.h">
+      <Filter>Source\UnrealFPS</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealFPS\UnrealFPSGameModeBase.cpp">
+      <Filter>Source\UnrealFPS</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealFPS\UnrealFPSGameModeBase.h">
+      <Filter>Source\UnrealFPS</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
