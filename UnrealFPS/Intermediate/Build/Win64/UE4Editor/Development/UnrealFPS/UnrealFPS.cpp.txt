@@ -1,2 +1,2 @@
-D:\UnrealFPS\Intermediate\Build\Win64\UE4Editor\Development\UnrealFPS\Definitions.UnrealFPS.h
-D:\UnrealFPS\Source\UnrealFPS\UnrealFPS.h
+D:\UnrealFPSGithub\UnrealFPS\Intermediate\Build\Win64\UE4Editor\Development\UnrealFPS\Definitions.UnrealFPS.h
+D:\UnrealFPSGithub\UnrealFPS\Source\UnrealFPS\UnrealFPS.h

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UnrealFPS.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{208C2588-D155-4830-9229-D5EBA5F4830D}</UniqueIdentifier>
+      <UniqueIdentifier>{5E0222DD-7400-4FC4-8E0C-6182C746F576}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealFPS.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{F8114DB2-8878-4C2F-AF08-EBF67BB76B66}</UniqueIdentifier>
+      <UniqueIdentifier>{B48F1510-C46E-42E3-ADFC-63F7FFBC9CBC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\UnrealFPS">
-      <UniqueIdentifier>{6C1B8F21-2207-4E68-A8C1-D0C505C1A15D}</UniqueIdentifier>
+      <UniqueIdentifier>{41D35F32-38E7-450D-B8D2-467A75AE37A6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealFPS\UnrealFPS.Build.cs">
       <Filter>Source\UnrealFPS</Filter>
@@ -40,6 +40,15 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\UnrealFPS\UnrealFPSGameModeBase.h">
       <Filter>Source\UnrealFPS</Filter>
+    </ClInclude>
+    <Filter Include="Source\UnrealFPS\Player">
+      <UniqueIdentifier>{6FB4DEF9-D2BE-4332-9595-66930F86D709}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealFPS\Player\GamePlayer.cpp">
+      <Filter>Source\UnrealFPS\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealFPS\Player\GamePlayer.h">
+      <Filter>Source\UnrealFPS\Player</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

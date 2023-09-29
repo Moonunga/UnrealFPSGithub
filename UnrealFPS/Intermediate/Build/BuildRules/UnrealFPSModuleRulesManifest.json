@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\UnrealFPS\\Source\\UnrealFPS\\UnrealFPS.Build.cs",
-		"D:\\UnrealFPS\\Source\\UnrealFPS.Target.cs",
-		"D:\\UnrealFPS\\Source\\UnrealFPSEditor.Target.cs"
+		"D:\\UnrealFPSGithub\\UnrealFPS\\Source\\UnrealFPS\\UnrealFPS.Build.cs",
+		"D:\\UnrealFPSGithub\\UnrealFPS\\Source\\UnrealFPS.Target.cs",
+		"D:\\UnrealFPSGithub\\UnrealFPS\\Source\\UnrealFPSEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }
