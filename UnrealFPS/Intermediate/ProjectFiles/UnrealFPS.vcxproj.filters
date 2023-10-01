@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UnrealFPS.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{5E0222DD-7400-4FC4-8E0C-6182C746F576}</UniqueIdentifier>
+      <UniqueIdentifier>{6AA32943-3BB5-4354-B5E1-11818460265F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealFPS.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{B48F1510-C46E-42E3-ADFC-63F7FFBC9CBC}</UniqueIdentifier>
+      <UniqueIdentifier>{4B866F2E-BAC8-44C2-A587-66CEAF35A1AB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +23,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\UnrealFPS">
-      <UniqueIdentifier>{41D35F32-38E7-450D-B8D2-467A75AE37A6}</UniqueIdentifier>
+      <UniqueIdentifier>{67BC441A-9B5E-4D27-9C4F-8947F892374D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealFPS\UnrealFPS.Build.cs">
       <Filter>Source\UnrealFPS</Filter>
@@ -41,8 +44,17 @@
     <ClInclude Include="..\..\Source\UnrealFPS\UnrealFPSGameModeBase.h">
       <Filter>Source\UnrealFPS</Filter>
     </ClInclude>
+    <Filter Include="Source\UnrealFPS\Animation">
+      <UniqueIdentifier>{960A7BF1-DDE6-4E32-A305-F5F972E65CCF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealFPS\Animation\GamePlayerEventGraph.cpp">
+      <Filter>Source\UnrealFPS\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealFPS\Animation\GamePlayerEventGraph.h">
+      <Filter>Source\UnrealFPS\Animation</Filter>
+    </ClInclude>
     <Filter Include="Source\UnrealFPS\Player">
-      <UniqueIdentifier>{6FB4DEF9-D2BE-4332-9595-66930F86D709}</UniqueIdentifier>
+      <UniqueIdentifier>{15BF5DCF-DF73-4DE8-AF9B-DBBEE830C216}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\UnrealFPS\Player\GamePlayer.cpp">
       <Filter>Source\UnrealFPS\Player</Filter>

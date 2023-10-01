@@ -22,6 +22,12 @@ protected:
 	UPROPERTY(EditAnywhere,BluePrintReadWrite)
 	class UCameraComponent* Camera;
 
+	void Forward(float Input);
+	void Right(float Input);
+
+	void Turn(float Input);
+	void LookUp(float Input);
+
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;

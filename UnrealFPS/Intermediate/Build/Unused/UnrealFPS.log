@@ -1,0 +1,17 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\UnrealFPSGithub).
+  Parsing headers for UnrealFPSEditor
+    Running UnrealHeaderTool "D:\UnrealFPSGithub\UnrealFPS\UnrealFPS.uproject" "D:\UnrealFPSGithub\UnrealFPS\Intermediate\Build\Win64\UnrealFPSEditor\Development\UnrealFPSEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\ansdn\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for UnrealFPSEditor in 3.8659381 seconds
+  Building UnrealFPSEditor...
+  Using Visual Studio 2022 14.37.32824 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.37.32822) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 5 actions with 16 processes...
+    [1/5] GamePlayer.gen.cpp
+    [2/5] GamePlayer.cpp
+    [3/5] UE4Editor-UnrealFPS-0012.lib
+       Creating library D:\UnrealFPSGithub\UnrealFPS\Intermediate\Build\Win64\UE4Editor\Development\UnrealFPS\UE4Editor-UnrealFPS-0012.lib and object D:\UnrealFPSGithub\UnrealFPS\Intermediate\Build\Win64\UE4Editor\Development\UnrealFPS\UE4Editor-UnrealFPS-0012.exp
+    [4/5] UE4Editor-UnrealFPS-0012.dll
+       Creating library D:\UnrealFPSGithub\UnrealFPS\Intermediate\Build\Win64\UE4Editor\Development\UnrealFPS\UE4Editor-UnrealFPS-0012.suppressed.lib and object D:\UnrealFPSGithub\UnrealFPS\Intermediate\Build\Win64\UE4Editor\Development\UnrealFPS\UE4Editor-UnrealFPS-0012.suppressed.exp
+    [5/5] UnrealFPSEditor.target
+  Total time in Parallel executor: 4.96 seconds
+  Total execution time: 9.69 seconds

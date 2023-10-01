@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeUnrealFPS_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xA2600D39,
-				0x0518ED87,
+				0xE10156E9,
+				0xB2DA724D,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
