@@ -4,3 +4,4 @@
 #include "Modules/ModuleManager.h"
 
 IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, UnrealFPS, "UnrealFPS" );
+DEFINE_LOG_CATEGORY(Game);

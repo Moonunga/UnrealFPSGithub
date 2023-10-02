@@ -1,0 +1,3 @@
+D:\UnrealFPSGithub\UnrealFPS\Intermediate\Build\Win64\UE4Editor\Development\UnrealFPS\Definitions.UnrealFPS.h
+D:\UnrealFPSGithub\UnrealFPS\Source\UnrealFPS\Weapon\Rifle.h
+D:\UnrealFPSGithub\UnrealFPS\Intermediate\Build\Win64\UE4Editor\Inc\UnrealFPS\Rifle.generated.h

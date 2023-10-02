@@ -3,13 +3,14 @@
 
 #include "GamePlayer.h"
 #include "Camera/CameraComponent.h"
+#include "Components/ChildActorComponent.h"
 
 
 // Sets default values
 AGamePlayer::AGamePlayer()
 {
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
-	PrimaryActorTick.bCanEverTick = true;
+	PrimaryActorTick.bCanEverTick = false;
 	
 	//Camera Setting
 	Camera = CreateDefaultSubobject<UCameraComponent>(TEXT("Player Camera"));
@@ -20,6 +21,7 @@ AGamePlayer::AGamePlayer()
 	GetMesh()->SetRelativeLocation(FVector(0.f,0.f,-90.f));
 	GetMesh()->SetRelativeRotation(FRotator(0.f,-90.f,0.f));
 
+	//ChildActorComponent
 
 }
 

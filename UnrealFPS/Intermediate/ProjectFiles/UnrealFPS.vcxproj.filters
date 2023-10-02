@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UnrealFPS.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{6AA32943-3BB5-4354-B5E1-11818460265F}</UniqueIdentifier>
+      <UniqueIdentifier>{2B576AC4-949A-48F2-9E8D-68695B171BAB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealFPS.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{4B866F2E-BAC8-44C2-A587-66CEAF35A1AB}</UniqueIdentifier>
+      <UniqueIdentifier>{927BC318-1AE1-46B8-94C0-5F2447DF9482}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\UnrealFPS">
-      <UniqueIdentifier>{67BC441A-9B5E-4D27-9C4F-8947F892374D}</UniqueIdentifier>
+      <UniqueIdentifier>{FE6B9C6C-9824-4D09-A0E0-8EC930E6B6E1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealFPS\UnrealFPS.Build.cs">
       <Filter>Source\UnrealFPS</Filter>
@@ -45,7 +45,7 @@
       <Filter>Source\UnrealFPS</Filter>
     </ClInclude>
     <Filter Include="Source\UnrealFPS\Animation">
-      <UniqueIdentifier>{960A7BF1-DDE6-4E32-A305-F5F972E65CCF}</UniqueIdentifier>
+      <UniqueIdentifier>{C02EFEDA-C460-4A3B-8680-063D6A8F025F}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\UnrealFPS\Animation\GamePlayerEventGraph.cpp">
       <Filter>Source\UnrealFPS\Animation</Filter>
@@ -54,13 +54,28 @@
       <Filter>Source\UnrealFPS\Animation</Filter>
     </ClInclude>
     <Filter Include="Source\UnrealFPS\Player">
-      <UniqueIdentifier>{15BF5DCF-DF73-4DE8-AF9B-DBBEE830C216}</UniqueIdentifier>
+      <UniqueIdentifier>{4BE78B59-86FC-4F8D-87DF-555B6CBC59F9}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\UnrealFPS\Player\GamePlayer.cpp">
       <Filter>Source\UnrealFPS\Player</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\UnrealFPS\Player\GamePlayer.h">
       <Filter>Source\UnrealFPS\Player</Filter>
+    </ClInclude>
+    <Filter Include="Source\UnrealFPS\Weapon">
+      <UniqueIdentifier>{987C4BB3-0168-4D53-B1D8-30314DF09B09}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealFPS\Weapon\Bullet.cpp">
+      <Filter>Source\UnrealFPS\Weapon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealFPS\Weapon\Bullet.h">
+      <Filter>Source\UnrealFPS\Weapon</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealFPS\Weapon\Rifle.cpp">
+      <Filter>Source\UnrealFPS\Weapon</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealFPS\Weapon\Rifle.h">
+      <Filter>Source\UnrealFPS\Weapon</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
